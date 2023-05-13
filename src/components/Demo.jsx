@@ -32,7 +32,6 @@ const Demo = () => {
           peer-focus:text-gray-700'
           >
           🖱️
-
           </button>
          </form>
 
