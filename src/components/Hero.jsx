@@ -22,5 +22,4 @@ Simplify your reading with Summize, an open-source article summarizer
   </header>
   )
 }
-
 export default Hero
