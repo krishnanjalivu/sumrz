@@ -34,10 +34,8 @@ const Demo = () => {
           🖱️
           </button>
          </form>
-
        </div>
     </section>
   )
 }
-
 export default Demo
